@@ -1,10 +1,10 @@
-Mononucleotide SSR Analysis and Phylogenetic Clustering<br><br>
-This repository contains two scripts for analyzing mononucleotide Simple Sequence Repeats (SSRs) from DNA sequences in a FASTA file. The first script counts SSRs and calculates their percentages, while the second script performs phylogenetic clustering based on the SSR data.<br>
+SSR Analysis and Phylogenetic Clustering<br><br>
+This repository contains two scripts for analyzing  Simple Sequence Repeats (SSRs) from DNA sequences in a FASTA file. The first script counts SSRs and calculates their percentages, while the second script performs phylogenetic clustering based on the SSR data.<br>
 
 Scripts Overview
 1. First_Script_Count_SSR_commented.py
 Description
-This Python script counts mononucleotide SSRs (Simple Sequence Repeats) in a DNA sequence and calculates their percentages relative to the sequence length.
+This Python script counts  SSRs (Simple Sequence Repeats) of defined length in a DNA sequence and calculates their percentages relative to the sequence length.
 
 Dependencies
 argparse
